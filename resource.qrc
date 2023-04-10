@@ -1,0 +1,27 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icon/account-logout-64.ico</file>
+    <file>icon/activity-feed-32.ico</file>
+    <file>icon/activity-feed-48.ico</file>
+    <file>icon/bottle-159119.ico</file>
+    <file>icon/camera-1295463.ico</file>
+    <file>icon/camera-4091991.ico</file>
+    <file>icon/close-window-64.ico</file>
+    <file>icon/computer-156948.ico</file>
+    <file>icon/dashboard-5-32.ico</file>
+    <file>icon/dashboard-5-48 (1).ico</file>
+    <file>icon/dashboard-5-48.ico</file>
+    <file>icon/group-32 (1).ico</file>
+    <file>icon/group-32.ico</file>
+    <file>icon/group-48.ico</file>
+    <file>icon/home-4-32.ico</file>
+    <file>icon/home-4-48.ico</file>
+    <file>icon/menu-4-32.ico</file>
+    <file>icon/polaroid-2315182.ico</file>
+    <file>icon/product-32.ico</file>
+    <file>icon/product-48.ico</file>
+    <file>icon/recycle-29231.ico</file>
+    <file>icon/search-13-48.ico</file>
+    <file>icon/user-48.ico</file>
+  </qresource>
+</RCC>
